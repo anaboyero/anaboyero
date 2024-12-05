@@ -1,7 +1,6 @@
 <h1 align="center">Hello! 🌠</h1>
 <h3 align="center">I love Python.</h3>
 
-- 🔭 I’m currently working on [Data Analytics Bootcamp in Adalab](https://github.com/Adalab)
 
 - 📫 How to reach me **anaboyero@gmail.com**
 
