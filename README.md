@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 🌠</h1>
-<h3 align="center">I love Python.</h3>
+<h3 align="center">Lover of Python and Java. My current focus includes cloud computing on GCP, and I'm actively learning to build with microservices.</h3>
 
 
 - 📫 How to reach me **anaboyero@gmail.com**
